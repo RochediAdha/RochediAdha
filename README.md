@@ -6,13 +6,13 @@
    <a href="https://www.linkedin.com/in/rochediadha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<p align="center">
+<p>
    <img src="https://github-readme-stats.vercel.app/api?username=rochediadha&show_icons=true&hide=stars&hide_border=true" alt="Rochedi Adha's GitHub Stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochediadha&layout=compact&hide_border=true" alt="Rochedi Adha's Language Stats" />
    </a>
 </p>
 
-<div>
+<div align="center">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
    <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
